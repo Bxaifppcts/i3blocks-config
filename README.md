@@ -1,5 +1,5 @@
 # i3blocks-config
-This is my default i3blocks configuration.
+This is my default i3blocks configuration. (forked from miklhh)
 ![Thumbnail1](resources/i3blocks-thumbnail-5.png)
 <br/>
 ![Thumbnail2](resources/i3blocks-thumbnail-6.png)
